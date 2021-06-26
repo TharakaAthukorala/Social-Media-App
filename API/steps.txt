@@ -1,0 +1,13 @@
+npm init - This utility will walk you through creating a package.json file.
+	   It only covers the most common items, and tries to guess sensible defaults.
+
+
+
+npm add express mongoose dotenv helmet morgan nodemon
+
+remove "test" in package.json and use "start": "nodemon index.js"
+
+create index.js
+
+npm start
+npm add bcrypt - hide the passwords
